@@ -69,6 +69,13 @@ I'am really just a beginner, so don't expect too much xD.
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
+ ### 👉 Competitive Programming & Problem Solving
+ 
+ <p align="center">
+  &emsp;
+    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+</p>
+
 ---
 
 <h2>🏆 Git profile Trophies</h2>
