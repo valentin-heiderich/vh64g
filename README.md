@@ -1,5 +1,7 @@
 <h1 align="center">Hiii 👋</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=learning+python;learning+chess;Student)](https://git.io/typing-svg)
+
 I'am really just a beginner, so don't expect too much xD.
 ❤️
 
