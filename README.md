@@ -1,7 +1,7 @@
 <h1 align="center">Hiii 👋</h1>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=learning+python;learning+chess;Student)](https://git.io/typing-svg)
+  <img src=https://readme-typing-svg.herokuapp.com?lines=learning+python;learning+chess;Student>
 </p>
 
 I'am really just a beginner, so don't expect too much xD.
