@@ -15,7 +15,8 @@ I'am really just a beginner, so don't expect too much xD.
  
 -How to reach me:  {Discord: vh64g#0681}
 
-### Flag Counter:
+### Flag Counter
+<h3>flagcounter.com</h3>
 <a href="https://info.flagcounter.com/tOaO"><img src="https://s05.flagcounter.com/countxl/tOaO/bg_333333/txt_FFFFFF/border_8C8C8C/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <!--
