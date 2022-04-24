@@ -87,6 +87,16 @@ I'am really just a beginner, so don't expect too much xD.
 
 <a href="https://info.flagcounter.com/ZMyM"><img src="https://s05.flagcounter.com/map/ZMyM/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
+<h2>Credits</h2>
+
+### Friends:
+
+-https://github.com/lounartic
+
+### Design:
+
+-https://github.com/lounartic
+
 <!--
 **vh64g/vh64g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
