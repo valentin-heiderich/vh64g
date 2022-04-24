@@ -21,6 +21,10 @@ I'am really just a beginner, so don't expect too much xD.
 
 <a href="https://info.flagcounter.com/tOaO"><img src="https://s05.flagcounter.com/countxl/tOaO/bg_333333/txt_FFFFFF/border_8C8C8C/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+### Flag map
+
+<a href="https://info.flagcounter.com/ZMyM"><img src="https://s05.flagcounter.com/map/ZMyM/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+
 <!--
 **vh64g/vh64g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
