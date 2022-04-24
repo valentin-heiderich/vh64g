@@ -3,7 +3,7 @@
 I'am really just a beginner, so don't expect too much xD.
 ❤️
 
-### About me
+<h2>About me</h2>
 
 -I'm from:   Germany 🇩🇪
 
