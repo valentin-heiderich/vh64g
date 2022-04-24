@@ -93,9 +93,13 @@ I'am really just a beginner, so don't expect too much xD.
 
 -https://github.com/lounartic
 
+-https://github.com/thecyboy
+
 ### Design:
 
 -https://github.com/lounartic
+
+-https://github.com/thecyboy
 
 <!--
 **vh64g/vh64g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
