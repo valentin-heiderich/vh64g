@@ -19,7 +19,65 @@ I'am really just a beginner, so don't expect too much xD.
  
 -How to reach me:  {Discord: vh64g#0681}
 
-<h2>Flag counter: (from: https://www.flagcounter.com)</h2>
+---
+
+<h2>Github Stats</h2>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vh64g&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vh64g&show_icons=true&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vh64g&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical">
+<b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<h2>⚡ Recent GitHub Activity</h2>
+<a href="https://github.com/vh64g"><img alt="vh64g's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vh64g&custom_title=vh64g's%20Contribution%20Graph&theme=react-dark" /></a>
+
+---
+
+<h2>My Skills</h2>
+
+### 👉 Programming languages
+
+<p align="center"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+
+ ### 👉 IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+</p>
+
+ ### 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+</p>
+
+---
+
+<h2>🏆 Git profile Trophies</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vh64g&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<h2>Flag counter</h2>
 
 ### Flag counter
 
