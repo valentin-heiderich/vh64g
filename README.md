@@ -8,8 +8,6 @@ But currently I'am really just a beginner, so don't expect too much xD.
 
 -I'm from: Germany
 
--My name is: Valentin
-
 -I’m currently learning: C#, Python
   
 -I’m currently working on: learning programming xD
