@@ -6,7 +6,9 @@ But currently I'am really just a beginner, so don't expect too much xD.
 
 ### About me
 
--I'm from: Germany
+-I'm from: Germany 🇩🇪
+
+-Main language: german/python xD
 
 -I’m currently learning: C#, Python
   
