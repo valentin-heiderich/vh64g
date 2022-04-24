@@ -15,7 +15,7 @@ I'am really just a beginner, so don't expect too much xD.
  
 -How to reach me:  {Discord: vh64g#0681}
 
-<h2>Flag counter: https://www.flagcounter.com</h2>
+<h2>Flag counter: (from: https://www.flagcounter.com)</h2>
 
 ### Flag counter
 
