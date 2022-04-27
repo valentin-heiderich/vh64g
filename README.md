@@ -108,6 +108,10 @@ I'am really just a beginner, so don't expect too much xD.
 
 -https://github.com/thecyboy
 
+<h2>Random Dev Quote</h2>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <!--
 **vh64g/vh64g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
