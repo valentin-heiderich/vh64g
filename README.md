@@ -98,6 +98,8 @@ I'am really just a beginner, so don't expect too much xD.
 
 ### Friends:
 
+-https://github.com/Redtronicshehe
+
 -https://github.com/lounartic
 
 -https://github.com/thecyboy
@@ -107,6 +109,10 @@ I'am really just a beginner, so don't expect too much xD.
 -https://github.com/lounartic
 
 -https://github.com/thecyboy
+
+### Marketing:
+
+-https://github.com/Redtronicshehe
 
 <h2>Random Dev Quote</h2>
 
