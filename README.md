@@ -19,6 +19,12 @@ I'am really just a beginner, so don't expect too much xD.
  
 -How to reach me:  {Discord: vh64g#0681}
 
+-YT:
+
+-https://www.youtube.com/channel/UCH51tv_9PaIlcG7unHqFZlg
+
+-https://www.youtube.com/channel/UCM1-05TC8djlPoqyjtIjTyQ
+
 ---
 
 <h2>Github Stats</h2>
