@@ -21,9 +21,9 @@ I'am really just a beginner, so don't expect too much xD.
 
 -YT:
 
--https://www.youtube.com/channel/UCH51tv_9PaIlcG7unHqFZlg
+-My YT account: https://www.youtube.com/channel/UCH51tv_9PaIlcG7unHqFZlg
 
--https://www.youtube.com/channel/UCM1-05TC8djlPoqyjtIjTyQ
+-Safecolour YT: https://www.youtube.com/channel/UCM1-05TC8djlPoqyjtIjTyQ
 
 ---
 
