@@ -120,6 +120,8 @@ I'am really just a beginner, so don't expect too much xD.
 
 -https://www.instagram.com/safecolour/
 
+-https://www.youtube.com/channel/UCM1-05TC8djlPoqyjtIjTyQ
+
 <h2>Random Dev Quote</h2>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
