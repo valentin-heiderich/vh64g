@@ -29,6 +29,13 @@ I'am really just a beginner, so don't expect too much xD.
 
 <h2>Github Stats</h2>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vh64g&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vh64g&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vh64g&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vh64g&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vh64g&theme=radical&utcOffset=8)
+
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vh64g&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vh64g&show_icons=true&theme=radical)
