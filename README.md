@@ -31,16 +31,17 @@ I'am really just a beginner, so don't expect too much xD.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vh64g&theme=radical) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vh64g&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vh64g&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vh64g&theme=radical) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vh64g&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vh64g&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vh64g&theme=radical&utcOffset=8)
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vh64g&theme=radical) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vh64g&theme=radical&utcOffset=8)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vh64g&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vh64g&show_icons=true&theme=radical)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vh64g&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical">
+
 <b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <a href="https://github.com/vh64g"><img alt="vh64g's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vh64g&custom_title=vh64g's%20Contribution%20Graph&theme=react-dark" /></a>
