@@ -1,7 +1,7 @@
 <h1 align="center">Hiii 👋</h1>
 
 <p align="center">
-  <img src=https://readme-typing-svg.herokuapp.com?lines=Discord:+vh64g#0681>
+  <img src=https://readme-typing-svg.herokuapp.com?lines=Discord:+"vh64g0681">
 </p>
 
 <h2>About me</h2>
