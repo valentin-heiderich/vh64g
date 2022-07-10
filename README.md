@@ -12,12 +12,12 @@ I'am really just a beginner, so don't expect too much xD.
 -I'm from:   Germany 🇩🇪
 
 -Main language:  german/python xD
-
--I’m currently learning:  C#, Python
   
--I’m currently working on:   learning programming xD
+-I’m currently working on: AI
  
--How to reach me:  {Discord: vh64g#0681}
+-How to reach me:  
+
+    Discord: vh64g#0681
 
 -YT:
 
