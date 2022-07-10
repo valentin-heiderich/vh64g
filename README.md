@@ -17,7 +17,9 @@ I'am really just a beginner, so don't expect too much xD.
  
 -How to reach me:  
 
-    Discord: vh64g#0681
+  Discord: 
+  
+    vh64g#0681
 
 -YT:
 
