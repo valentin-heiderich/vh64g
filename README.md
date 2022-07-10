@@ -11,11 +11,11 @@
 -I’m currently working on: AI
 
 
-  Discord:
+  ### Discord:
   
     vh64g#0681
 
-  YT:
+  ### YouTube:
   
    My YT account:
 
