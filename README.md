@@ -1,29 +1,25 @@
 <h1 align="center">Hiii 👋</h1>
 
 <p align="center">
-  <img src=https://readme-typing-svg.herokuapp.com?lines=learning+python;learning+chess;Student>
+  <img src=https://readme-typing-svg.herokuapp.com?lines=Discord:+vh64g#0681>
 </p>
-
-I'am really just a beginner, so don't expect too much xD.
-❤️
 
 <h2>About me</h2>
 
 -I'm from:   Germany 🇩🇪
-
--Main language:  german/python xD
   
 -I’m currently working on: AI
- 
--How to reach me:  
+
 
   Discord:
   
       vh64g#0681
 
--YT:
+  YT:
 
     My YT account: https://www.youtube.com/channel/UCH51tv_9PaIlcG7unHqFZlg
+    
+    
 
     Safecolour YT: https://www.youtube.com/channel/UCM1-05TC8djlPoqyjtIjTyQ
 
