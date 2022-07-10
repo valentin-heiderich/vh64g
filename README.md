@@ -13,15 +13,15 @@
 
   Discord:
   
-      vh64g#0681
+    vh64g#0681
 
   YT:
   
-.   My YT account:
+   My YT account:
 
     https://www.youtube.com/channel/UCH51tv_9PaIlcG7unHqFZlg
 
-.   Safecolour YT:
+   Safecolour YT:
 
     https://www.youtube.com/channel/UCM1-05TC8djlPoqyjtIjTyQ
 
