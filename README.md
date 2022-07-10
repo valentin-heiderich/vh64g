@@ -17,15 +17,15 @@ I'am really just a beginner, so don't expect too much xD.
  
 -How to reach me:  
 
-  Discord: 
+  Discord:
   
-    vh64g#0681
+      vh64g#0681
 
 -YT:
 
--My YT account: https://www.youtube.com/channel/UCH51tv_9PaIlcG7unHqFZlg
+    My YT account: https://www.youtube.com/channel/UCH51tv_9PaIlcG7unHqFZlg
 
--Safecolour YT: https://www.youtube.com/channel/UCM1-05TC8djlPoqyjtIjTyQ
+    Safecolour YT: https://www.youtube.com/channel/UCM1-05TC8djlPoqyjtIjTyQ
 
 ---
 
@@ -106,29 +106,29 @@ I'am really just a beginner, so don't expect too much xD.
 
 ### Friends:
 
--https://github.com/Redtronicshehe
+    https://github.com/Redtronicshehe
 
--https://github.com/lounartic
+    https://github.com/lounartic
 
--https://github.com/thecyboy
+    https://github.com/thecyboy
 
 ### Design:
 
--https://github.com/lounartic
+    https://github.com/lounartic
 
--https://github.com/thecyboy
+    https://github.com/thecyboy
 
 ### Marketing:
 
--https://github.com/Redtronicshehe
+    https://github.com/Redtronicshehe
 
 ### Safecolour organisation:
 
--https://github.com/Kaeja
+    https://github.com/Kaeja
 
--https://www.instagram.com/safecolour/
+    https://www.instagram.com/safecolour/
 
--https://www.youtube.com/channel/UCM1-05TC8djlPoqyjtIjTyQ
+    https://www.youtube.com/channel/UCM1-05TC8djlPoqyjtIjTyQ
 
 <h2>Random Dev Quote</h2>
 
